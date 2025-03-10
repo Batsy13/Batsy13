@@ -1,6 +1,8 @@
-<h2 align="left">My name is Pedro and I'm a Front-end Developer from Brazil</h2>
+<h2 align="left">Welcome to my Github profile</h2>
 
 ###
+
+<h3> Tecnologies that i use </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -18,8 +20,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Batsy13&theme=shadow_red&show_icons=true&rank_icon=github" height="150" alt="Rank"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Batsy13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
-  <a href="pedrocostavgs@gmail.com" target="_blank">
+  <a href="mailto:pedrocostavgs@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pedro-costa-b189262b3/" target="_blank">
@@ -27,17 +36,4 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Batsy13&theme=shadow_red&show_icons=true" height="150" alt="Rank"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Batsy13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
+##
